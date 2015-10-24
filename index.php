@@ -10,7 +10,7 @@
  * Learn more: {@link https://codex.wordpress.org/Template_Hierarchy}
  *
  * @package WordPress
- * @subpackage Twenty_Fifteen
+ * @subpackage WeConnect 2015
  * @since Twenty Fifteen 1.0
  */
 
